@@ -1,0 +1,27 @@
+_repo: The-Altruist-in-Politics_1341
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cardozo, Benjamin N. (Benjamin Nathan)
+    alias: Cardozo, Benjamin Nathan
+    birthdate: 1870
+    deathdate: 1938
+    gutenberg_agent_id: '610'
+    url: http://www.gutenberg.org/2009/agents/610
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_N._Cardozo
+description: ''
+gutenberg_issued: '1998-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1341'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'K'
+- !lcsh 'Law'
+- !lcsh 'Judicial process'
+- GITenberg
+title: The Altruist in Politics
+url: http://www.gutenberg.org/ebooks/1341
